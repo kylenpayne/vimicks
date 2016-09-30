@@ -1,5 +1,5 @@
 " Set name
-let g:colors_name="projectX"
+let g:colors_name="Vimicks"
 
 " Reset highlight to defaults {{{
 set background=dark
