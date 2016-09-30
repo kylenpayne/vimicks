@@ -79,4 +79,4 @@ call MyLink("EndOfBuffer", "Normal")
 call MyHighlight("Title", 67,  -1,  -1)
 call MyLink("htmlTagN", "htmlTagName")
 
-call MyHighlight("PreProc", 34, -1, -1)
+call MyHighlight("PreProc", 67, -1, -1)
